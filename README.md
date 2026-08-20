@@ -1,7 +1,7 @@
-##🐂 DigitalBull
+#🐂 DigitalBull
 Sistema de gestión de ganado de carne y leche desarrollado en .NET 10 con C#, utilizando WPF bajo arquitectura MVVM y acceso a datos mediante Dapper.
 
-##📑 Descripción
+## 📑 Descripción
 DigitalBull permite llevar un control integral del ganado y los recursos asociados:
 
 • Registro de animales que ingresan al sistema.
@@ -12,7 +12,7 @@ DigitalBull permite llevar un control integral del ganado y los recursos asociad
 
 Su objetivo es ofrecer una solución robusta, escalable y fácil de mantener, con una interfaz moderna y clara para usuarios finales.
 
-##✨ Características principales
+## ✨ Características principales
 🐄 Gestión de ganado: carne y leche.
 📈 Seguimiento de peso y crecimiento.
 💰 Control de valores de entrada y salida.
@@ -22,7 +22,7 @@ Su objetivo es ofrecer una solución robusta, escalable y fácil de mantener, co
 🏗️ Arquitectura MVVM.
 ⚡ Acceso a datos con Dapper.
 
-##🛠️ Tecnologías utilizadas
+## 🛠️ Tecnologías utilizadas
 • Lenguaje: C#
 • Framework: .NET 10
 •UI: WPF
