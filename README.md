@@ -4,8 +4,10 @@ Sistema de gestión de ganado de carne y leche desarrollado en .NET 10 con C#, u
 ## 📑 Descripción
 DigitalBull permite llevar un control integral del ganado y los recursos asociados:
 
-• Registro de animales que ingresan al sistema. 
+• Registro de animales que ingresan al sistema.
+
 • Seguimiento del crecimiento en peso y estado de cada animal.
+
 • Control de salida con cálculo de valor inicial vs. valor final.
 • Gestión de inventarios de alimento y medicina.
 • Reportes para análisis de producción y costos.
