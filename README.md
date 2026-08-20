@@ -1,4 +1,4 @@
-#🐂 DigitalBull
+## 🐂 DigitalBull
 Sistema de gestión de ganado de carne y leche desarrollado en .NET 10 con C#, utilizando WPF bajo arquitectura MVVM y acceso a datos mediante Dapper.
 
 ## 📑 Descripción
