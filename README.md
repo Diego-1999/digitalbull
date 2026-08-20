@@ -33,4 +33,4 @@ Su objetivo es ofrecer una solución robusta, escalable y fácil de mantener, co
 Actualmente en desarrollo:
 ---
 ✍️ **Autor:** Ing. Diego Alexander Chacón Ureña.
-📖 Proyecto Para cliente con cabezas de ganado.
+- 📖 Proyecto Para cliente con cabezas de ganado.
