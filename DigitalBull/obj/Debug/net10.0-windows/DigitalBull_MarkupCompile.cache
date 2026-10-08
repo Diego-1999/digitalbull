@@ -1,0 +1,20 @@
+﻿DigitalBull
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\diego\Desktop\Proyectos Personales\DigitalBull\DigitalBull\DigitalBull\obj\Debug\net10.0-windows\
+DigitalBull
+none
+false
+TRACE;DEBUG;NET;NET10_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NET9_0_OR_GREATER;NET10_0_OR_GREATER;NETCOREAPP1_0_OR_GREATER;NETCOREAPP1_1_OR_GREATER;NETCOREAPP2_0_OR_GREATER;NETCOREAPP2_1_OR_GREATER;NETCOREAPP2_2_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+C:\Users\diego\Desktop\Proyectos Personales\DigitalBull\DigitalBull\DigitalBull\App.xaml
+11-648185314
+
+38-1122539039
+2211258834635
+MainWindow.xaml;Views\Control_Produccion_CarneView.xaml;Views\Control_Produccion_LecheView.xaml;Views\Control_ViaticosView.xaml;Views\Inventario_AlimentoView.xaml;Views\Inventario_MedicinaView.xaml;Views\Registro_GastosAlimentacion_CarneView.xaml;Views\Registro_GastosAlimentacion_LecheView.xaml;Views\Registro_Gastos_VeterinarioView.xaml;Views\Registro_HatoView.xaml;Views\Registro_UsuarioView.xaml;
+
+True
+
