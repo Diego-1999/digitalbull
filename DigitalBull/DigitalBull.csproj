@@ -11,10 +11,7 @@
   <ItemGroup>
     <Folder Include="Images\" />
     <Folder Include="Fonts\" />
-    <Folder Include="Utilities\" />
-    <Folder Include="Styles\" />
     <Folder Include="Resources\" />
-    <Folder Include="ViewModels\" />
   </ItemGroup>
 
   <ItemGroup>
