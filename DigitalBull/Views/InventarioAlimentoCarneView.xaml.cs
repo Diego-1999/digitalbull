@@ -14,11 +14,11 @@ using System.Windows.Shapes;
 namespace DigitalBull.Views
 {
     /// <summary>
-    /// Lógica de interacción para Inventario_AlimentoView.xaml
+    /// Lógica de interacción para InventarioAlimentoCarneView.xaml
     /// </summary>
-    public partial class Inventario_AlimentoView : UserControl
+    public partial class InventarioAlimentoCarneView : UserControl
     {
-        public Inventario_AlimentoView()
+        public InventarioAlimentoCarneView()
         {
             InitializeComponent();
         }

@@ -1,4 +1,69 @@
 ﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:vm="clr-namespace:DigitalBull.ViewModels"
+                    xmlns:view="clr-namespace:DigitalBull.Views">
+
+    <!--mapa automático entre ViewModels y Views-->
+    <!--para que WPF sepa qué pantalla mostrar según el ViewModel que tenga asignado-->
+
+    <DataTemplate DataType="{x:Type vm:ControlProduccionCarneVM}">
+        <view:Control_Produccion_CarneView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:ControlProduccionLecheVM}">
+        <view:Control_Produccion_LecheView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:ControlViaticosVM}">
+        <view:Control_ViaticosView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:InventarioAlimentoCarneVM}">
+        <view:InventarioAlimentoCarneView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:InventarioAlimentoLecheVM}">
+            <view:InventarioAlimentoLecheView/>
+     </DataTemplate>
     
+    <DataTemplate DataType="{x:Type vm:InventarioMedicinaVM}">
+        <view:Inventario_MedicinaView/>
+    </DataTemplate>
+    
+    <DataTemplate DataType="{x:Type vm:PlanillaVM}">
+        <view:PlanillaView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:RegistroColaboradoresVM}">
+        <view:RegistroColaboradoresView/>
+    </DataTemplate>
+    
+    <DataTemplate DataType="{x:Type vm:RegistroGastosActivosVM}">
+        <view:RegistroGastosActivosView/>
+    </DataTemplate>
+    
+    <DataTemplate DataType="{x:Type vm:RegistroGastosAlimentacionCarneVM}">
+        <view:Registro_GastosAlimentacion_CarneView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:RegistroGastosAlimentacionLecheVM}">         
+        <view:Registro_GastosAlimentacion_LecheView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:RegistroGastosVeterinarioCarneVM}">
+        <view:RegistroGastosVeterinarioCarneView/>
+    </DataTemplate>
+    
+    <DataTemplate DataType="{x:Type vm:RegistroGastosVeterinarioLecheVM}">  
+        <view:Registro_Gastos_VeterinarioView/>
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:RegistroHatoVM}">    
+        <view:Registro_HatoView/>
+    </DataTemplate>
+    
+    <DataTemplate DataType="{x:Type vm:RegistroUsuarioVM}">
+        <view:Registro_UsuarioView/>
+    </DataTemplate>
+
 </ResourceDictionary>
