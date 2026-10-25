@@ -4,6 +4,8 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:DigitalBull"
+        xmlns:vm    ="clr-namespace:DigitalBull.ViewModels"
+        xmlns:Menu="clr-namespace:DigitalBull.Utilities"
         mc:Ignorable="d"
         Title="MainWindow" 
         Height="600" 
@@ -27,7 +29,24 @@
                 <ColumnDefinition Width="622"/>
             </Grid.ColumnDefinitions>
         </Grid>
+        
+        <!--Panel de Navegacion-->
+        <Grid HorizontalAlignment="Left"
+              Width="228">
 
+            <Border Background="#272B2f"
+                    CornerRadius="20, 0, 0,20 "/>
+
+            <StackPanel Height="400"
+                        Width="228"/>
+            <!--Boton 1-->
+            
+
+
+
+
+
+        </Grid>
 
 
     </Grid>
